@@ -1,4 +1,4 @@
-$file = "C:\temp\powershell_lists\list"
+$file = "C:\temp\powershell_lists\list.txt"
 $date = Get-Date -Format "MM-dd-yyyy"
 $outCSV = "C:\temp\Powershell_Results\results $date.csv"
 
